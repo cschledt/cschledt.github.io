@@ -1,2 +1,2 @@
-# cschledt.github.io
+# Chris' Home Page
 Home
