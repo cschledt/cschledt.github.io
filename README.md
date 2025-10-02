@@ -1,3 +1,3 @@
 # Chris' Home Page
-theme: minima
-Home
+
+Just my corner of the internet.
