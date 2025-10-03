@@ -2,6 +2,6 @@
 title: Home
 ---
 
-[My Travels](https://www.cschledt.com/travels)
+[My Travels](https://www.cschledt.com/travels)     [Cooking Stuff](https://www.cschledt/cooking) 
 
 My corner of the internet.
