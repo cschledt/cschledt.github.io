@@ -3,4 +3,4 @@ title: Travels
 ---
 Just a collection of some trips I have been on - some of my favorite places.
 
-![Diamond Creek Road - Peach Springs, AZ](https://cschledt.com/photo/dcmtn.jpg)
+![Diamond Creek Road - Peach Springs, AZ](https://cschledt.com/photos/dcmtn.jpg)
