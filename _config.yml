@@ -1,5 +1,5 @@
 title: Chris' Site
-remote_theme: jekyll/minima
+theme: minima
 minima:
 plugins:
   - jekyll-feed
