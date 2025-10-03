@@ -1,1 +1,4 @@
 theme: minima
+  nav_pages:
+  - cooking.md
+  - travels.md
