@@ -1,8 +1,1 @@
-title: Chris' Site
 theme: minima
-minima:
-plugins:
-skin: classic
-  nav_pages:
-  - cooking.md
-  - travels.md
