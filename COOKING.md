@@ -1,4 +1,4 @@
 ---
-title: Cooking Page
+title: Cooking
 ---
 Recipes located here.
