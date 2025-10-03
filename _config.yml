@@ -2,8 +2,6 @@ title: Chris' Site
 theme: minima
 minima:
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 skin: classic
   nav_pages:
   - cooking.md
