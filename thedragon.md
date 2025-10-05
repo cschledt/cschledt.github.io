@@ -4,7 +4,7 @@ In 2021 after visting Camaro Fest in Bowling Green, KY - I made a side trip to t
 
 You can see more info about The Dragon [here](https://www.tailofthedragon.com).
 
-An overlook on Fighting Gap Creek Road on my way to enter Smokey Mountain National Park.
+An overlook on Fighting Gap Creek Road on my way to enter Great Smoky Mountains National Park.
 
 ![Dragons Tail](https://github.com/cschledt/cschledt.github.io/blob/images/dragon1.jpg?raw=true)
 
