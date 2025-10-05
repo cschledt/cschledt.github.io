@@ -12,7 +12,7 @@ Look at the difference! At the bottom of the mountain it was partly cloud with a
 
 ![Dragons Tail](https://github.com/cschledt/cschledt.github.io/blob/images/dragon2.jpg?raw=true)
 
-After a quick run across Newfound Gap Road I settled in for the night at [Two River Lodge & Cabins](https://https://tworiverslodgenc.com). It was a nice modest motel to settle in until morning.
+After a quick run across Newfound Gap Road I settled in for the night at [Two River Lodge & Cabins](https://www.tworiverslodgenc.com). It was a nice modest motel to settle in until morning.
 
 The next morning I left to drive US 129 / The Dragon and then needed to get back home after (several hours back to Louisiana).
 
