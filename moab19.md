@@ -29,3 +29,32 @@ Once you have made the initial climb, crossed Elephant Hill, and descended, the 
 ![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/ehill2.jpg?raw=true)
 
 ![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant3.JPG?raw=true)
+
+The sights along UT-211 leading into/out of Canyonlands are wonderful. Just a couple here:
+
+Looking toward the Abajo Mountains, located just west of Monticello, UT.
+
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant4.JPG?raw=true)
+
+Looking further into, and beyond, the Needles District.
+
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant5.JPG?raw=true)
+
+Hells Revenge & Fins & Things are some of my favorites and are located inside the [Sand Flats Recreation Area](https://www.grandcountyutah.net/287/Sand-Flats-Recreation-Area)  just on the north side of Moab.
+
+You can see my video here of FnT and Hells Revenge:
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/veUIS8v9_nY)](https://youtu.be/veUIS8v9_nY)
+
+A long slickrock climb on Hells Revenge.
+
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/hells2.jpg?raw=true)
+
+Overlooking the Colorado River and UT-128 from near Hells Gate.
+
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/hells1.JPG?raw=true)
+
+
+
+
+[Back to Travels](https://www.cschledt.com/travels) 
