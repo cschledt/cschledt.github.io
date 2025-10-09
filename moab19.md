@@ -16,11 +16,11 @@ Elephant Hill trail, also enjoyed by hikers, also has remote campsites. Trail pe
 
 Parking area at the trail head.
 
-![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant1.jpg?raw=true)
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant1.JPG?raw=true)
 
 The trail climbs steeply out of the parking lot with a tight switch back. This positions you atop 'Elephant Hill' where you will cross a sandy area and a few rocky areas, followed by a steep descent with more switchbacks. This is the most challenging section of trail.
 
-![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant2.jpg?raw=true)
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant2.JPG?raw=true)
 
 Once you have made the initial climb, crossed Elephant Hill, and descended, the trail crosses back and forth across a 'wash' in a canyon like area with rocky obstacles here and there. Eventually, you drop into 'Devils Lane' a grassy area with a sandy road and a rock wall on either side.
 
@@ -28,4 +28,4 @@ Once you have made the initial climb, crossed Elephant Hill, and descended, the 
 
 ![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/ehill2.jpg?raw=true)
 
-![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant3.jpg?raw=true)
+![Moab](https://github.com/cschledt/cschledt.github.io/blob/images/elephant3.JPG?raw=true)
